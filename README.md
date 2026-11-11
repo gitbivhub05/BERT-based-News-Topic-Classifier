@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BERT News Article Topic Classification
 
 Full-stack starter: React + TypeScript + Vite frontend, FastAPI backend, and Hugging Face BERT training scripts.
@@ -75,3 +76,7 @@ Do not commit datasets, model weights, `.env`, virtual environments or secrets.
 
 ## Deployment
 Deploy frontend as a static site and FastAPI as a Python service. Set frontend `VITE_API_BASE_URL` to the deployed API URL; set backend `CORS_ORIGINS` to the frontend origin. Confirm hosting memory/disk can accommodate BERT.
+=======
+# BERT-based-News-Topic-Classifier
+A full-stack news article classification system powered by fine-tuned BERT, using deep learning and NLP to automatically categorize news articles. Built with Python, PyTorch, FastAPI, and React, it provides an interactive platform for accurate text classification and model analysis.
+>>>>>>> 75345584453507a7c8faac7d8f2a8a00e3ef3177
